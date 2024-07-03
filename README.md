@@ -2,7 +2,7 @@
 
 ## Objective
 
-The purpose of this project was to develop skills in identifying risks to assets, based on controls and compliance best practices that are or are not implemented or the improper implementation of security controls.
+The purpose of this project was to develop skills in identifying risks to assets, based on controls and compliance best practices that are implemented, or the improper implementation of security controls.
 
 ### Skills Learned
 
@@ -12,13 +12,13 @@ The purpose of this project was to develop skills in identifying risks to assets
 
 ### Tools Used
 
-Control and Compliance Checklist
+#### Control and Compliance Checklist
 
 ## Steps
 1.
 <img width="1064" alt="Scenario" src="https://github.com/Cassford/Conducting-a-security-audit/assets/172983465/edbd7a0d-897e-48f0-bd33-767219ba43e3">
 
-*Ref1: Description of security concerns of fictional company
+*Ref1: Description of security concerns of fictional company.
 
 2. Reviewed the scope and goals of the audit.
    [Scope, goals, and risk assessment report.pdf](https://github.com/user-attachments/files/16076771/Scope.goals.and.risk.assessment.report.pdf)

@@ -23,7 +23,7 @@ The purpose of this project was to develop skills in identifying risks to assets
 2. Reviewed the scope and goals of the audit.
    [Scope, goals, and risk assessment report.pdf](https://github.com/user-attachments/files/16076771/Scope.goals.and.risk.assessment.report.pdf)
    
-3. Conduted the audit using the Controls and Compliane checklist
+3. Conduted the audit using the Controls and Compliane checklist.
 [Completed Controls and compliance checklist.pdf](https://github.com/user-attachments/files/16076670/Completed.Controls.and.compliance.checklist.pdf)
 
 

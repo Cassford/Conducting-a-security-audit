@@ -1,31 +1,30 @@
-# PROJECTNAME
+# Conducting A Security Audit
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The purpose of this project was to develop skills in identifying risks to assets, based on controls and compliance best practices that are or are not implemented or the improper implementation of security controls.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Ability to regconize weak or inefficient controls.
+- Proficiency in conducting internal security audits.
+- Enhanced knowledge of security vulnerabilities, control categories and control types.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+Control and Compliance Checklist
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+1.
+<img width="1064" alt="Scenario" src="https://github.com/Cassford/Conducting-a-security-audit/assets/172983465/edbd7a0d-897e-48f0-bd33-767219ba43e3">
 
-Every screenshot should have some text explaining what the screenshot is about.
+*Ref1: Description of security concerns of fictional company
 
-Example below.
+2. Reviewed the scope and goals of the audit.
+   [Scope, goals, and risk assessment report.pdf](https://github.com/user-attachments/files/16076771/Scope.goals.and.risk.assessment.report.pdf)
+   
+3. Conduted the audit using the Controls and Compliane checklist
+[Completed Controls and compliance checklist.pdf](https://github.com/user-attachments/files/16076670/Completed.Controls.and.compliance.checklist.pdf)
 
-*Ref 1: Network Diagram*
+
+
